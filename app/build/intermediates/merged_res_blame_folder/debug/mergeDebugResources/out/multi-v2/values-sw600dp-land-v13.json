@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "mx.curso.primerproyectoandroid.app-mergeDebugResources-21:/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\src\\android_project\\Android-Cursera\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "7,8,9,6,4,2,3,5",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "314,360,410,268,166,57,115,220",
+                        "endColumns": "44,48,47,44,52,56,49,46",
+                        "endOffsets": "354,404,453,308,214,109,160,262"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,149,197,242,295,352,402",
+                        "endColumns": "44,48,47,44,52,56,49,46",
+                        "endOffsets": "95,144,192,237,290,347,397,444"
+                    }
+                }
+            ]
+        }
+    ]
+}

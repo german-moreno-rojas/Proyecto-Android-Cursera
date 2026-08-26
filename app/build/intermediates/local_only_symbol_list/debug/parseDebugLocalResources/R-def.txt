@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color transparent
+color white
+dimen button_height
+dimen button_margin_top
+dimen button_text_size
+dimen button_width
+dimen screen_padding_bottom
+dimen screen_padding_horizontal
+dimen screen_padding_top
+dimen title_text_size
+drawable button_outline
+drawable fondo_android
+id enterButton
+id welcomeText
+layout activity_main
+mipmap ic_launcher
+string app_name
+string button_message
+string enter
+string welcome
+style AppTheme

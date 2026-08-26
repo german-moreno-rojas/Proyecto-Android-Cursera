@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_padding_horizontal">72dp</dimen>
+    <dimen name="screen_padding_top">54dp</dimen>
+    <dimen name="screen_padding_bottom">24dp</dimen>
+    <dimen name="title_text_size">48sp</dimen>
+    <dimen name="button_width">160dp</dimen>
+    <dimen name="button_height">58dp</dimen>
+    <dimen name="button_margin_top">34dp</dimen>
+    <dimen name="button_text_size">20sp</dimen>
+</resources>

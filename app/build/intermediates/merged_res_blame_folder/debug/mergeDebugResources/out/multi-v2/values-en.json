@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "mx.curso.primerproyectoandroid.app-mergeDebugResources-21:/values-en/values-en.xml",
+            "map": [
+                {
+                    "source": "C:\\src\\android_project\\Android-Cursera\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "from": {
+                        "startLines": "2,5,4,3",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "57,206,165,120",
+                        "endColumns": "61,60,39,43",
+                        "endOffsets": "114,262,200,159"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,117,178,218",
+                        "endColumns": "61,60,39,43",
+                        "endOffsets": "112,173,213,257"
+                    }
+                }
+            ]
+        }
+    ]
+}

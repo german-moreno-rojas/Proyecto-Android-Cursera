@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mein erstes Android-Projekt</string>
+    <string name="welcome">Willkommen</string>
+    <string name="enter">Betreten</string>
+    <string name="button_message">Du hast Betreten gedrückt</string>
+</resources>

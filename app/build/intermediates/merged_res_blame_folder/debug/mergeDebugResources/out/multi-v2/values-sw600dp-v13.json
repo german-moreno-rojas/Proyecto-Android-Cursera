@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "mx.curso.primerproyectoandroid.app-mergeDebugResources-21:/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mgerm\\.gradle\\caches\\8.9\\transforms\\1dde5f983d8d8b69105a239187db4900\\transformed\\appcompat-1.7.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "C:\\src\\android_project\\Android-Cursera\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "7,8,9,6,4,2,3,5",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "315,361,411,269,167,57,115,221",
+                        "endColumns": "44,48,47,44,52,56,50,46",
+                        "endOffsets": "355,405,454,309,215,109,161,263"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "611,656,705,753,798,851,908,959",
+                        "endColumns": "44,48,47,44,52,56,50,46",
+                        "endOffsets": "651,700,748,793,846,903,954,1001"
+                    }
+                }
+            ]
+        }
+    ]
+}

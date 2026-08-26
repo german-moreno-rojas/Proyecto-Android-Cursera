@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "mx.curso.primerproyectoandroid.app-debug-23:/drawable-mdpi_fondo_android.9.png.flat",
+        "source": "mx.curso.primerproyectoandroid.app-main-25:/drawable-mdpi/fondo_android.9.png"
+    },
+    {
+        "merged": "mx.curso.primerproyectoandroid.app-debug-23:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "mx.curso.primerproyectoandroid.app-main-25:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "mx.curso.primerproyectoandroid.app-debug-23:/layout_activity_main.xml.flat",
+        "source": "mx.curso.primerproyectoandroid.app-main-25:/layout/activity_main.xml"
+    },
+    {
+        "merged": "mx.curso.primerproyectoandroid.app-debug-23:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "mx.curso.primerproyectoandroid.app-main-25:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "mx.curso.primerproyectoandroid.app-debug-23:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "mx.curso.primerproyectoandroid.app-main-25:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "mx.curso.primerproyectoandroid.app-debug-23:/layout-land_activity_main.xml.flat",
+        "source": "mx.curso.primerproyectoandroid.app-main-25:/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "mx.curso.primerproyectoandroid.app-debug-23:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "mx.curso.primerproyectoandroid.app-main-25:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "mx.curso.primerproyectoandroid.app-debug-23:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "mx.curso.primerproyectoandroid.app-main-25:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "mx.curso.primerproyectoandroid.app-debug-23:/drawable_button_outline.xml.flat",
+        "source": "mx.curso.primerproyectoandroid.app-main-25:/drawable/button_outline.xml"
+    }
+]

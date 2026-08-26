@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_content_inset_material">24dp</dimen>
+    <dimen name="abc_action_bar_content_inset_with_nav">80dp</dimen>
+    <dimen name="abc_action_bar_default_height_material">64dp</dimen>
+    <dimen name="abc_action_bar_default_padding_end_material">8dp</dimen>
+    <dimen name="abc_action_bar_default_padding_start_material">8dp</dimen>
+    <dimen name="abc_config_prefDialogWidth">580dp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <dimen name="button_height">58dp</dimen>
+    <dimen name="button_margin_top">64dp</dimen>
+    <dimen name="button_text_size">20sp</dimen>
+    <dimen name="button_width">160dp</dimen>
+    <dimen name="screen_padding_bottom">32dp</dimen>
+    <dimen name="screen_padding_horizontal">56dp</dimen>
+    <dimen name="screen_padding_top">110dp</dimen>
+    <dimen name="title_text_size">48sp</dimen>
+</resources>
